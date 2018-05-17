@@ -7,7 +7,7 @@ public class Hello {
           System.out.println("githup更新01");
           System.out.println("local更新02"); 
           System.out.println("local更新03"); 
-	  System.out.println("githup更新02"); 
+	      System.out.println("githup更新02"); 
 		
 	}
 }
