@@ -6,5 +6,6 @@ public class Hello {
           System.out.println("local更新01");    
 		System.out.println("远程冲突01");  
 			 System.out.println("本地冲突01"); 
+			  System.out.println("本地冲突02"); 
 	}
 }
