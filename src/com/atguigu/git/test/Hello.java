@@ -9,5 +9,6 @@ public class Hello {
 	      System.out.println("githup更新01");
 	      System.out.println("本地修改：冲突01");
 		  System.out.println("远程修改：冲突01"); 
+		 System.out.println("远程冲突02"); 
 	}
 }
